@@ -1,0 +1,4 @@
+# download cache used by build.py (includes the proceedings PDFs, which are not published here)
+cache/
+.DS_Store
+__pycache__/
