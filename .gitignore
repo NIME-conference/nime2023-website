@@ -2,3 +2,6 @@
 cache/
 .DS_Store
 __pycache__/
+
+# the global gitignore may exclude PDFs; these (concert programs, travel guide) belong to the site
+!site/files/*.pdf
